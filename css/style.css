@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Poppins:wght@500&family=Ubuntu:ital,wght@0,400;0,500;1,500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.panda-bg-color{
+    background-color:#fceae8 ;
+}
+.categories img{
+    width: 150px;
+}
+.cat-bg-1{
+    background-color: #deb308;
+}
+.cat-bg-2{
+    background-color: #a508de;
+}
+.cat-bg-3{
+    background-color: #0935f6;
+}
